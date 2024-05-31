@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 ✅𝗩𝗫5</b>
+<h1 align="center"><b> SAVAGE MD ✅𝗩𝗫5</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+SAVAGE+MD+Created+By+Mbuvi..&heart;++;Self-taught+Back-Created+By,;Mbuvi+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ![Aaaaand many more](res/readme/context.gif)
@@ -13,7 +13,7 @@
  ## Join my channel for updates and get free cc
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -42,7 +42,7 @@
 <br>
 
 
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
+[![FORK SAVAGE-MD](https://img.shields.io/badge/FORK%20-SAVAGE%20MD-white)](https://github.com/cheekydavy/SAVAGE-MD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
