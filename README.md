@@ -48,7 +48,7 @@
 
 
 <p align="center"><a href="https://black-panther-app-6d384e753bee.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20SAVAGE%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
 
 
 
