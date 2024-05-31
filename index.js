@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              SAVAGE MD ..., MADE BY MBUVI TECH
+//                                    MBUVI TECH BEST TECH EVER
 //
 //════════════════════════════//
 
